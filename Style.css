@@ -1,0 +1,40 @@
+body{
+	background-color:rgb(255, 200, 71);
+	color : darkblue;
+	font-family: "Fredoka", sans-serif;
+	letter-spacing: 10px;
+}
+h1 {
+	text-align: center;
+	font-size: 70px;
+	text-decoration: underline;
+}
+p {
+	font-size: 40px;
+	
+}
+
+
+img {
+	width: 100%;
+	height: 400px;
+	background-color: skyblue;
+	border: 10px dotted darkblue;
+	padding: 20px solid turquoise;
+	border-radius: 50px;
+	object-fit: contain;
+	margin: 20px dashed red ;
+}
+
+*{
+	padding: 20px solid orange;
+	margin:0px;
+
+
+}
+ul{
+	list-style-type: circle;
+	font-size: 25px;
+	font-family: "Fredoka", sans-serif;
+
+}
