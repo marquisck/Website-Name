@@ -3,8 +3,7 @@ body {
     background-color: rgb(255, 200, 71);
     color: darkblue;
     font-family: "Fredoka", sans-serif;
-    letter-spacing: 2px; /* Reduced spacing for better readability */
-}
+    letter-spacing: 2px; 
 
 h1 {
     text-align: center;
@@ -17,23 +16,21 @@ p {
 }
 
 img {
-    width: 100%;
-    height: auto; /* Changed to auto for responsive design */
+     
     background-color: skyblue;
     border: 10px dotted darkblue;
     border-radius: 50px;
     object-fit: contain;
-    margin: 20px 0; /* Removed dashed red margin and replaced with simple margin */
+    margin: 20px 0; 
 }
 
 * {
-    padding: 0; /* Removed solid orange padding */
-    margin: 0; /* Reset all margins to zero */
-}
+    padding: 0; 
+    margin: 0; 
 
 ul {
     list-style-type: circle;
     font-size: 25px;
     font-family: "Fredoka", sans-serif;
-    padding-left: 20px; /* Added padding for better list alignment */
+    padding-left: 20px; 
 }
