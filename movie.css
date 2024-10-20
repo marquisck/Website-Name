@@ -1,0 +1,12 @@
+.movies{
+	display: flex;
+	position:relative;
+
+}
+
+.movies>p {
+	font-size:40px;
+	margin-left: 10px;
+	position: absolute;
+	background-color: black;
+}
