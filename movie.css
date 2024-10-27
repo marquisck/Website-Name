@@ -8,5 +8,12 @@
 	font-size:40px;
 	margin-left: 10px;
 	position: absolute;
+	transform: translate (0,-50%);
 	background-color: black;
+	
+}
+.movies>a {
+	
+	
+	z-index: 1;
 }
